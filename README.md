@@ -2,7 +2,7 @@
 
 Setup the Pico-ESP8266 Wifi expansion module with Raspberry Pico for sending the POST request to REST API.
 
-Use as a reference ☺️
+Pico-ESP8266 demo codes are heavily used. Use as a reference ☺️
 
 # Wiring
 
